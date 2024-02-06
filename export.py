@@ -6,7 +6,8 @@ with open('basic.ics', 'r') as handle:
 
 CALENDARS = {
     'single-cell': [r'single.?cell'],
-    'wg-systems': [r'Systems WG']
+    'wg-systems': [r'Systems WG'],
+    'sig-chairs': [r'Galaxy SiG Chairs'],
 }
 
 OUTPUTS = {k: [] for k in CALENDARS.keys()}
