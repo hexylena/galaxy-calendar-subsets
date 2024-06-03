@@ -10,10 +10,10 @@ BEGIN:VEVENT
 SUMMARY:Galaxy SiG Chairs Meeting
 DTSTART;TZID=Europe/London:20240206T130000
 DTEND;TZID=Europe/London:20240206T140000
-DTSTAMP:20240206T135705Z
+DTSTAMP:20240603T115341Z
 UID:385vnjqt6kpa4c73kgo8673ooi@google.com
 SEQUENCE:0
-RRULE:FREQ=MONTHLY;INTERVAL=9;BYDAY=1TU
+RRULE:FREQ=MONTHLY;UNTIL=20241104T235959Z;INTERVAL=9;BYDAY=1TU
 CREATED:20231207T152355Z
 DESCRIPTION:Audience: Representatives/chairs of the various communities of
   practice / special interest groups<br><br>Meeting Notes doc: <a href="ht
@@ -25,7 +25,7 @@ DESCRIPTION:Audience: Representatives/chairs of the various communities of
  s02web.zoom.us/j/87443808126?pwd=VmpsdUZkbmF2eTZVYUtvNVAyRDczZz09</u></a><
  /p><p dir="ltr">Meeting ID: 874 4380 8126</p><p dir="ltr">Passcode: nerdsu
  nite</p>
-LAST-MODIFIED:20240205T221716Z
+LAST-MODIFIED:20240425T130559Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Galaxy SiG Chairs Meeting
 DTSTART;TZID=Europe/London:20240206T130000
 DTEND;TZID=Europe/London:20240206T140000
-DTSTAMP:20240206T135705Z
+DTSTAMP:20240603T115341Z
 UID:385vnjqt6kpa4c73kgo8673ooi@google.com
 RECURRENCE-ID;TZID=Europe/London:20240206T130000
 SEQUENCE:0
@@ -48,59 +48,7 @@ DESCRIPTION:Audience: Representatives/chairs of the various communities of
  s02web.zoom.us/j/87443808126?pwd=VmpsdUZkbmF2eTZVYUtvNVAyRDczZz09</u></a><
  /p><p dir="ltr">Meeting ID: 874 4380 8126</p><p dir="ltr">Passcode: nerdsu
  nite</p>
-LAST-MODIFIED:20240205T221716Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Galaxy SiG Chairs Meeting
-DTSTART;TZID=Europe/London:20240509T170000
-DTEND;TZID=Europe/London:20240509T180000
-DTSTAMP:20240206T135705Z
-UID:0auouo1cpq2fndqau1grbe0clq@google.com
-SEQUENCE:0
-RRULE:FREQ=MONTHLY;INTERVAL=9;BYDAY=2TH
-CREATED:20231207T152430Z
-DESCRIPTION:Audience: Representatives/chairs of the various communities of
-  practice / special interest groups<br><br>Meeting Notes doc: <a href="ht
- tps://www.google.com/url?q=https://docs.google.com/document/d/19zv4rata-uV
- hFW43S8v_Fw83RVYq6jDGXy-1T8Aju4s/edit?usp%3Dsharing&amp\;sa=D&amp\;source=
- calendar&amp\;usd=2&amp\;usg=AOvVaw3lPuKECDzgKw5IPwx8EN3o" target="_blank"
- >https://docs.google.com/document/d/19zv4rata-uVhFW43S8v_Fw83RVYq6jDGXy-1T
- 8Aju4s/edit?usp=sharing</a><br><p dir="ltr">Join Zoom Meeting</p><p dir="l
- tr"><a href="https://www.google.com/url?q=https://us02web.zoom.us/j/874438
- 08126?pwd%3DVmpsdUZkbmF2eTZVYUtvNVAyRDczZz09&amp\;sa=D&amp\;source=calenda
- r&amp\;usd=2&amp\;usg=AOvVaw1b9Oasx2de8ErmbJ769oQ_" target="_blank"><u>htt
- ps://us02web.zoom.us/j/87443808126?pwd=VmpsdUZkbmF2eTZVYUtvNVAyRDczZz09</u
- ></a></p><p dir="ltr">Meeting ID: 874 4380 8126</p><p dir="ltr">Passcode: 
- nerdsunite</p>
-LAST-MODIFIED:20240205T221745Z
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Galaxy SiG Chairs Meeting
-DTSTART;TZID=Europe/London:20240903T080000
-DTEND;TZID=Europe/London:20240903T090000
-DTSTAMP:20240206T135705Z
-UID:4rnquts3kqhj1pecl2but97dol@google.com
-SEQUENCE:0
-RRULE:FREQ=MONTHLY;INTERVAL=9;BYDAY=1TU
-CREATED:20231207T152531Z
-DESCRIPTION:Audience: Representatives/chairs of the various communities of
-  practice / special interest groups<br><br>Meeting Notes doc: <a href="ht
- tps://www.google.com/url?q=https://docs.google.com/document/d/19zv4rata-uV
- hFW43S8v_Fw83RVYq6jDGXy-1T8Aju4s/edit?usp%3Dsharing&amp\;sa=D&amp\;source=
- calendar&amp\;usd=2&amp\;usg=AOvVaw3lPuKECDzgKw5IPwx8EN3o" target="_blank"
- >https://docs.google.com/document/d/19zv4rata-uVhFW43S8v_Fw83RVYq6jDGXy-1T
- 8Aju4s/edit?usp=sharing</a><br><p dir="ltr">Join Zoom Meeting</p><p dir="l
- tr"><a href="https://www.google.com/url?q=https://us02web.zoom.us/j/874438
- 08126?pwd%3DVmpsdUZkbmF2eTZVYUtvNVAyRDczZz09&amp\;sa=D&amp\;source=calenda
- r&amp\;usd=2&amp\;usg=AOvVaw1b9Oasx2de8ErmbJ769oQ_" target="_blank"><u>htt
- ps://us02web.zoom.us/j/87443808126?pwd=VmpsdUZkbmF2eTZVYUtvNVAyRDczZz09</u
- ></a></p><p dir="ltr">Meeting ID: 874 4380 8126</p><p dir="ltr">Passcode: 
- nerdsunite</p>
-LAST-MODIFIED:20240205T221822Z
+LAST-MODIFIED:20240425T130559Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

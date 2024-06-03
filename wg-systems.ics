@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Initial Meeting
 DTSTART:20211013T120000Z
 DTEND:20211013T130000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:1gdrjcoo482aptf21ot7gf46k7@google.com
 SEQUENCE:0
 CREATED:20211012T162129Z
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Overflow Meeting
 DTSTART:20211020T120000Z
 DTEND:20211020T130000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:5ns0itkif9g0lr2ducnvapbdlo@google.com
 SEQUENCE:0
 CREATED:20211014T160625Z
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Meeting
 DTSTART:20211103T120000Z
 DTEND:20211103T130000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:4vechdibts185lebhoa62166of@google.com
 SEQUENCE:0
 CREATED:20211020T145848Z
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Meeting
 DTSTART:20211215T130000Z
 DTEND:20211215T140000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:4n69enj9ll4mhc89ioerdhsoqt@google.com
 SEQUENCE:0
 CREATED:20211209T150941Z
@@ -75,14 +75,14 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Biweekly Meeting
 DTSTART:20220302T130000Z
 DTEND:20220302T140000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:7l55fsb6ll66u7nb5hvo7kkdi8@google.com
 SEQUENCE:0
 RRULE:FREQ=WEEKLY;UNTIL=20220719T235959Z;INTERVAL=4;BYDAY=WE;WKST=SU
 CREATED:20220211T170845Z
-DESCRIPTION:Deelnemen via Google Meet: https://meet.google.com/har-nnei-z
- nk\n\nGa voor meer informatie over Meet naar https://support.google.com/a/
- users/answer/9282720
+DESCRIPTION:Join with Google Meet: https://meet.google.com/har-nnei-znk\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 LAST-MODIFIED:20220816T152518Z
 LOCATION:https://psu.zoom.us/j/91091404784?pwd=TzVkdVU3WUlxeWpKMzFMSkpYbUl
  hQT09
@@ -94,14 +94,14 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Biweekly Meeting
 DTSTART:20220720T130000Z
 DTEND:20220720T140000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:9il7ndouoqrl3thih9fsdv7vfh@google.com
 SEQUENCE:1
 RRULE:FREQ=WEEKLY;UNTIL=20220719;INTERVAL=4;BYDAY=WE;WKST=SU
 CREATED:20220211T170845Z
-DESCRIPTION:Deelnemen via Google Meet: https://meet.google.com/har-nnei-z
- nk\n\nGa voor meer informatie over Meet naar https://support.google.com/a/
- users/answer/9282720
+DESCRIPTION:Join with Google Meet: https://meet.google.com/har-nnei-znk\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 LAST-MODIFIED:20220816T152518Z
 LOCATION:https://psu.zoom.us/j/91091404784?pwd=TzVkdVU3WUlxeWpKMzFMSkpYbUl
  hQT09
@@ -113,14 +113,14 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Biweekly Meeting
 DTSTART:20220216T220000Z
 DTEND:20220216T230000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:6hr6o9odgia769l0m5nqpk2fsp@google.com
 SEQUENCE:0
 RRULE:FREQ=WEEKLY;UNTIL=20220802T235959Z;INTERVAL=4;BYDAY=WE;WKST=SU
 CREATED:20220211T170716Z
-DESCRIPTION:Deelnemen via Google Meet: https://meet.google.com/bst-jvjh-q
- ak\n\nGa voor meer informatie over Meet naar https://support.google.com/a/
- users/answer/9282720
+DESCRIPTION:Join with Google Meet: https://meet.google.com/bst-jvjh-qak\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 LAST-MODIFIED:20220816T152624Z
 LOCATION:https://psu.zoom.us/j/91091404784?pwd=TzVkdVU3WUlxeWpKMzFMSkpYbUl
  hQT09
@@ -144,14 +144,14 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Biweekly Meeting
 DTSTART:20220216T220000Z
 DTEND:20220216T230000Z
-DTSTAMP:20240206T135704Z
+DTSTAMP:20240603T115341Z
 UID:6hr6o9odgia769l0m5nqpk2fsp@google.com
 RECURRENCE-ID:20220216T220000Z
 SEQUENCE:0
 CREATED:20220211T170716Z
-DESCRIPTION:Deelnemen via Google Meet: https://meet.google.com/bst-jvjh-q
- ak\n\nGa voor meer informatie over Meet naar https://support.google.com/a/
- users/answer/9282720
+DESCRIPTION:Join with Google Meet: https://meet.google.com/bst-jvjh-qak\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 LAST-MODIFIED:20220816T152624Z
 LOCATION:https://psu.zoom.us/j/91091404784?pwd=TzVkdVU3WUlxeWpKMzFMSkpYbUl
  hQT09
@@ -175,14 +175,14 @@ BEGIN:VEVENT
 SUMMARY:Systems WG Biweekly Meeting
 DTSTART:20220803T220000Z
 DTEND:20220803T230000Z
-DTSTAMP:20240206T135705Z
+DTSTAMP:20240603T115341Z
 UID:cl5e5r0q3r58ho94oqad4g3dtn@google.com
 SEQUENCE:1
 RRULE:FREQ=WEEKLY;UNTIL=20220803;INTERVAL=4;BYDAY=WE;WKST=SU
 CREATED:20220211T170716Z
-DESCRIPTION:Deelnemen via Google Meet: https://meet.google.com/bst-jvjh-q
- ak\n\nGa voor meer informatie over Meet naar https://support.google.com/a/
- users/answer/9282720
+DESCRIPTION:Join with Google Meet: https://meet.google.com/bst-jvjh-qak\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 LAST-MODIFIED:20230815T170235Z
 LOCATION:https://psu.zoom.us/j/91091404784?pwd=TzVkdVU3WUlxeWpKMzFMSkpYbUl
  hQT09
